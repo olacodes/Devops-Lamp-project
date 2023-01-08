@@ -1,4 +1,4 @@
-# PROJECT 1: LAMP STACK IMPLEMENTATION
+# LAMP STACK IMPLEMENTATION
 
 In this project we are to deploy a simple web application using the LAMP technology stack and should be accessible over the internet.
 
